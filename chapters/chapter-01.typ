@@ -1,5 +1,5 @@
 #figure(
-  image("images/recovery-of-gratuity.webp", width: 100%),
+  image("images/recovery-of-gratuity.webp"),
   caption: [
     Recovery of Gratuity
   ],
